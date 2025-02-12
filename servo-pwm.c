@@ -2,7 +2,7 @@
 #include "pico/stdlib.h" //subconjunto central de bibliotecas do SDK Pico
 #include "hardware/pwm.h" //biblioteca para controlar o hardware de PWM
 
-#define SERVO_PIN 12 //pino do LED conectado a GPIO como PWM
+#define SERVO_PIN 22 //pino do LED conectado a GPIO como PWM
 
 const uint pwm_freq = 50;
 const uint clk_freq = 125*1000000;

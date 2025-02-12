@@ -39,13 +39,13 @@ int main()
 
         if(nivel==2400){
             printf("180 graus\n");
-            sleep_ms(1000);
+            sleep_ms(5000);
         }else if(nivel==1470){
             printf("90 graus\n");
-            sleep_ms(1000);
+            sleep_ms(5000);
         }else if(nivel==500){
             printf("0 graus\n");
-            sleep_ms(1000);
+            sleep_ms(5000);
         }
 
         if(sentido){

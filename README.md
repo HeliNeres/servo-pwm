@@ -4,7 +4,7 @@ Atividade da aula síncrona do dia 06/02 - Tarefa 2.
 
 ## Vídeo de Apresentação
 
-[https://youtube.com/shorts/8SXNiLzMIlk?feature=share](https://youtube.com/shorts/8SXNiLzMIlk?feature=share "https://youtube.com/shorts/8SXNiLzMIlk?feature=share")
+[https://youtube.com/shorts/lUpyO_IhZZI?feature=share](https://youtube.com/shorts/lUpyO_IhZZI?feature=share "https://youtube.com/shorts/lUpyO_IhZZI?feature=share")
 
 ## Instruções de uso
 
